@@ -11,8 +11,6 @@
   5. [EasyMorse Library](https://github.com/milador/EasyMorse)
   6. [Adafruit_NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel)
   7. [FlashStorage Library](https://github.com/cmaglie/FlashStorage)
-  8. ..
-  9. ..
 
 
 ## Software Setup Process
