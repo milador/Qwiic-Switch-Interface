@@ -51,17 +51,17 @@
   18. Extract **FlashStorage-master.zip** file
   19. Rename **FlashStorage-master** folder to **FlashStorage** folder under **FlashStorage-master** subdirectory. 
   20. Copy or move **FlashStorage** folder to Arduino installation library subdirectory. As an example: This is found under **C:\Program Files (x86)\Arduino\libraries in windows 10**.
-  21. Visit the **Example_Software.ino** raw source code file under Code directory.
+  21. Visit the **Qwiic_Switch_Interface_Software.ino** raw source code file under Code directory.
   22. Right click on the source code or any place on this page and select **Save Page As…**
   23. Select the directory you would like to save the software in your computer. 
-  24. Change File name from **Example_Software** to **Example_Software.ino**
+  24. Change File name from **Qwiic_Switch_Interface_Software** to **Qwiic_Switch_Interface_Software.ino**
   25. Change **Save as type** to **All Files**.
   26. Click on **Save** button.
   27. Open the directory you selected in step 18.
-  28. Double left click or open **Example_Software** file
-  29. **Arduino IDE** will ask your permission to create a new sketch folder named **Example_Software** and move **Example_Software.ino** under this folder.
+  28. Double left click or open **Qwiic_Switch_Interface_Software** file
+  29. **Arduino IDE** will ask your permission to create a new sketch folder named **Qwiic_Switch_Interface_Software** and move **Qwiic_Switch_Interface_Software.ino** under this folder.
   30. Click on the **Ok** button. 
-  31. **Arduino IDE** should now open the **Example_Software.ino** file automatically.
+  31. **Arduino IDE** should now open the **Qwiic_Switch_Interface_Software.ino** file automatically.
   32. Select the Board under **Tools > Board > Adafruit SAMD Boards** as **Adafruit QT PY (SAMD21)**
   33. Select the correct port number under **Tools > Port** which should show COM XX (Adafruit QT PY) 
   34. Press the **Verify** button to make sure there is no problem with the software and libraries. 

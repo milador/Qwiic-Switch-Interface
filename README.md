@@ -1,11 +1,20 @@
 # This is a project based on Qwiic Adaptive Switch modules
 This repository offers the required information for creating an Open Source Assistive Technology using [Qwiic Adaptive Switch modules](https://github.com/milador/Qwiic-Adaptive-Switch).
 
-## [Project Title]
+## Qwiic-Switch-Interface
 
-This is the description of the Open Source Assistive Technology created based on Qwiic Adaptive Switch modules and other components.
+An Adaptive Switch Interface based on Qwiic Adaptive Switch Input module which offers up to two 3.5mm switch inputs. 
+
+The Adaptive Switch Interface includes 4 operating modes: 
+    1. Keyboard Switch Mode
+	2. Morse Keyboard Mode  
+	3. Morse Mouse Mode
+	4. Settings Mode
+	
+The mode can be changed by pressing and holding Switch Number Two for 4 seconds.
 
 ## Requirements and setup instructions 
+
 The setup process is divided to three main catagories:
 
   1. [Hardware](./Hardware/) : The required hardware and assembly steps
