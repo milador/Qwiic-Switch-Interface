@@ -20,3 +20,8 @@
 
   1. Connect one end of the [STEMMA QT / Qwiic JST SH 4-Pin Cable](https://www.adafruit.com/product/4399) to the STEMMA connector of [Adafruit QT Py](https://www.adafruit.com/product/4600).
   2. Connect one other end of the [STEMMA QT / Qwiic JST SH 4-Pin Cable](https://www.adafruit.com/product/4399) to the STEMMA connector of [Qwiic-Adaptive-Switch-Input](https://github.com/milador/Qwiic-Adaptive-Switch).
+
+
+<p align="center">
+<img align="center" src="../Resources/Images/Qwiic_Switch_Interface.png" width="50%" height="50%" alt="Setup Diagram"/>
+</p>
