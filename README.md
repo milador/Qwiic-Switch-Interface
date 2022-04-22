@@ -13,6 +13,10 @@ The Adaptive Switch Interface includes 4 operating modes:
 	
 The mode can be changed by pressing and holding Switch Number Two for 4 seconds.
 
+<p align="center">
+<img align="center" src="./Resources/Images/Qwiic_Switch_Interface.png" width="50%" height="50%" alt="Setup Diagram"/>
+</p>
+
 ## Requirements and setup instructions 
 
 The setup process is divided to three main catagories:
