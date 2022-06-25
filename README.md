@@ -5,11 +5,12 @@ This repository offers the required information for creating an Open Source Assi
 
 An Adaptive Switch Interface based on Qwiic Adaptive Switch Input module which offers up to two 3.5mm switch inputs. 
 
-The Adaptive Switch Interface includes 4 operating modes: 
+The Adaptive Switch Interface includes 4 operating modes:
+
     1. Switch Mode
-	2. Morse Keyboard Mode  
-	3. Morse Mouse Mode
-	4. Settings Mode
+    2. Morse Keyboard Mode  
+    3. Morse Mouse Mode
+    4. Settings Mode
 	
 The mode can be changed by pressing and holding Switch Number Two for 4 seconds.
 
