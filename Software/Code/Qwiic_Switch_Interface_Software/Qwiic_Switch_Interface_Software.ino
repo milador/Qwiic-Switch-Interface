@@ -129,8 +129,8 @@ const colorStruct colorProperty[] {
 
 //Switch properties 
 const switchStruct switchProperty[] {
-    {1,"DOT", 'a',KEY_F1,5,1},                             //{1=dot,"DOT",'a',  KEY_F1,5=blue,1=1xMORSE_REACTION}
-    {2,"DASH",'b',KEY_F2,6,3}                              //{2=dash,"DASH",'b',KEY_F2,6=red,3=3xMORSE_REACTION}
+    {1,"DOT", 'a',KEY_F1,6,1},                             //{1=dot,"DOT",'a',  KEY_F1,6=red,1=1xMORSE_REACTION}
+    {2,"DASH",'b',KEY_F2,5,3}                              //{2=dash,"DASH",'b',KEY_F2,5=blue,3=3xMORSE_REACTION}
 };
 
 

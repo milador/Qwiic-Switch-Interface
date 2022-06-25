@@ -6,7 +6,7 @@
 
   1. [Arduino IDE](https://www.arduino.cc/en/software)
   2. [Main Code](./Code/)
-  3. [SparkFun_Qwiic_GPIO Library library](https://github.com/sparkfun/SparkFun_Qwiic_GPIO_Library)
+  3. [SparkFun_Qwiic_GPIO Library](https://github.com/sparkfun/SparkFun_Qwiic_GPIO_Library)
   4. [StopWatch Library](https://github.com/RobTillaart/Stopwatch_RT)
   5. [EasyMorse Library](https://github.com/milador/EasyMorse)
   6. [Adafruit_NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel)
